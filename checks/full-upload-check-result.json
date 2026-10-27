@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "requestId": "e9d8e77f872a0eddd9a118a7",
+  "runId": "40485251922",
+  "status": "success",
+  "testOnly": false,
+  "published": false,
+  "releaseId": 425280089,
+  "draftUrl": "https://github.com/UMEDJON12/smartvoice-tj-full-updates/releases/tag/untagged-ae5489ba6a09f356f96c",
+  "filename": "SmartVoice-TJ-Full-5.2.34.apk",
+  "sizeBytes": 632550944,
+  "sha256": "96b8ede4cc82ed1d30ef464c67cb83ea52df3f2902013696e01edfba6c4e7bc7",
+  "versionCode": 4150,
+  "versionName": "5.2.34-TJ-Full",
+  "packageName": "tts.smartvoice.umedjon.full",
+  "signingCertificateSha256": "5d1d676dfddad74da47b5486b4dbe9bf66b68e67c7c256d144ec0bdf3f0ed95b",
+  "apkDownloadedAndVerified": true,
+  "jsonDownloadedAndVerified": true,
+  "signatureVerified": true,
+  "anonymousReleaseStatus": 404
+}
