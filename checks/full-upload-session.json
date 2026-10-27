@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "requestId": "e9d8e77f872a0eddd9a118a7",
+  "repository": "UMEDJON12/smartvoice-tj-full-updates",
+  "publicKeySha256": "72100ebfbc5d5b7236bddb6e99a77a4200fa2e2a68d2e05b45a7442f068a2845",
+  "runId": "40485251922",
+  "encryptedToken": "BYehPQ06tqaxFtT2paInD72K7IfASaQlfdcniGFYBXPKlddo6rxkrMXYQnpVJV1uR/68ULNBUigT5VrQRHcdOU2IeTrjRlN/xN1jc8iFACbwivvvaZ9B1alhOYXXjc8ua4C2xlChQdKh6kZeka6U1ESZoIQbKKt4dugcHfWmbE6IS4eosoNkhOSEqGTJhFGhxS9zOcLjHRsDaF1oldwbVVFhKnWhv55BO2z7WmjZU/dkobtwpkjaGhsif92JZVmKBCd6PtYOGdvaeqeDSyEAXI3weJx7NNUp7oJntwvN3E1f5xtvlx8B/r6pQ05kuIjI6mnSZKde5pcOP2o37dIaWzafBOI7t1X9mmJOnZWN24U3gwT+GBAxdodOfXkFHCM2bSfyZqXFajOBZ5EFIpcuOHkY8V+RkvM5R8DgaNmQRofQMQrIlfcNxVOfvzub6QOFQKCIrArM7YvyljUZdeB1AKVgF2JZSG0/O5H0TvHltXuamqTZPdkYidhW59Oh/0FB",
+  "validForSeconds": 900,
+  "wrappedKeys": "XrQxT6UwgHd6yTzT6ScbIJt1TFkQkIQOoaeYNkeRCt8MEzT81qCJqvrZ2oFP24XIoxH1WgJS5l47r53HcO2BdCHsJRQNfUAld/kfbxbP2MBpkF95b3uUloRh3DOYxKIPyfoQRfjLovzPfsc507C9oiCjZzzfjLqM4C4kArLniMIagBh0o9haG+BFq0oqqrSf6kydItIc/ZBqB3dsv6BzxAJN4+OGBAWeivsGLHw4dZ+KWIE3VigELWVcPjCLDOXilOWnH2NaHjRLCgAASqlc3c4yqUkrJlRoi/2wqff7spyT4+Zhypq4+GbSrj5FHRXxdhKiA3Y2jIe2RX96DDTlxQIJHq9t1ATVlC7nCZwQ/GD/Ulfa7Eq69J83kg8dtWQdgySGBUqQVTkX4TRxEAMSK+bhQviEO7QOVZMfUR0YLVB/MZ7eo4lkN39ZfXijtLW1Nl38yP5o4FB40Gqr6mHVUr7QGtAErv5bFxVo/cWNLzOtcDeH6aG2yVpKkF1eMs8E",
+  "iv": "TMxkWNewm8md0l1M3A5RZQ==",
+  "hmacSha256": "6d630a1829226d62e2f45bb795e76e050bb7532a121649a1dcf1453392805e6f",
+  "permissions": [
+    "contents:write"
+  ],
+  "releaseId": 425280089
+}
