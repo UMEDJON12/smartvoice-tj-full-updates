@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "requestId": "e9d8e77f872a0eddd9a118a7",
+  "repository": "UMEDJON12/smartvoice-tj-full-updates",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAsJ+6PLbXvLrkKP+BfmfU\nPvKB6FgFyosxrzF9iho9BBEjXeuzSmb9Ll0w8lQOdqGTYX1Vcw+t2AmtdXBKFCLJ\nb6yA2KfWSdQxP5bZG/Pv/AMMErfc1ZXjKA721XixB43U7KovkhuPeIDDq92EygoQ\nsYSPZbjNyk07L0GdQACba3tuluUz9MsIPpnteTv6jTQHngnvvMm/ju1FyVidthyE\nweoyyZNR7GEUNOFyTr6F6n2Tx94a4sFi/S8F8drEScrTvP1eH+fzxVPFQCKylFrA\nm/SS6zV47FhxVrUioH5mbYunELRyU9Izes8kcfA30GZA8MHwX2+dDnLKKrvsWZwB\n2Pg8o0u6YU8GhFYVny+LQ9cdDgZtBPrC0qMXT+h7RU7e5wGUXGAWscNEjEomn6DG\na6ZyrYQaTx6qiO8dJwgv5KrdLOVGd6a8Q4klj3D+OWNgnY6M19e+nCvnvjHFx+zY\nb1ZbnukfPKd9TobJngIzlwhd824s7/nD9fVHcOl3yYRjAgMBAAE=\n-----END PUBLIC KEY-----\n",
+  "publicKeySha256": "72100ebfbc5d5b7236bddb6e99a77a4200fa2e2a68d2e05b45a7442f068a2845",
+  "releaseId": 0,
+  "filename": "SmartVoice-TJ-Full-5.2.34.apk",
+  "sizeBytes": 632550944,
+  "sha256": "96b8ede4cc82ed1d30ef464c67cb83ea52df3f2902013696e01edfba6c4e7bc7",
+  "packageName": "tts.smartvoice.umedjon.full",
+  "versionCode": 4150,
+  "versionName": "5.2.34-TJ-Full",
+  "signingCertificateSha256": "5d1d676dfddad74da47b5486b4dbe9bf66b68e67c7c256d144ec0bdf3f0ed95b",
+  "testOnly": false,
+  "tagName": "v5.2.34-TJ-Full",
+  "releaseNotes": "# SmartVoice TJ Full 5.2.34\n\nОтдельный репозиторий Full: https://github.com/UMEDJON12/smartvoice-tj-full-updates\n\nВ этой версии Full полностью переведён на новый репозиторий: адреса метаданных, разрешённые адреса APK, подготовка черновиков и публикация канала обновлений. Адреса APK прежнего общего репозитория отклоняются.\n\nДля перехода с Full 5.2.33 или более ранней Full один раз скачайте SmartVoice-TJ-Full-5.2.34.apk и установите поверх приложения. Прежний ключ подписи и пакет tts.smartvoice.umedjon.full сохранены; код версии 4150. Удалять установленную Full перед обновлением не требуется. Обычная версия устанавливается отдельно.\n\nГолоса и поведение основаны на Full 5.2.33: Milena Full по умолчанию при новой установке, Yuri Full дополнительно, Milena Compact как резерв. Выбранный аварийный голос сохраняет приоритет. Сохранены нововведения исходников 5.2.32, включая исключение таджикского из выбора и определения языков.\n\nВыпуск подготовлен как черновик. Сначала скачайте APK, проверьте установку, голоса, папки и настройки на телефоне. Автоматические проверки используют имитации Android и нативного синтеза; реальное звучание на телефоне не проверялось.\n\nПосле проверки откройте Edit и нажмите Publish release. В этом отдельном репозитории Full можно назначать Latest: обычная версия использует другой репозиторий. После публичной публикации GitHub повторно проверяет APK и размещает метаданные в updates/full.json. Черновик в автоматические обновления не попадает.\n\nВ Assets находятся один полный APK и один ZIP исходников. Объединять части для скачивания с GitHub не нужно.\n\nДля сборки исходников используйте offline_build_tools/rebuild_umedjon.py build-input/SmartVoice-UMEDJON15.apk output.apk. Исходный закрытый ключ нужно предоставить отдельно в keystore/smartvoice_umedjon.p12; пароль — в переменной SMARTVOICE_KEYSTORE_PASSWORD. Ключ и пароль в исходный ZIP не включены. Проверки: offline_build_tools/run_full5233_tests.py build-input/SmartVoice-UMEDJON15.apk.\n"
+}
