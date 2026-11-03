@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "requestId": "752d36269c1bbc839290b920",
+  "requestId": "548cb610e915eb6154274847",
   "repository": "UMEDJON12/smartvoice-tj-full-updates",
-  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA6YmnfsltNA01vgbgIZ7z\nD45tBksk/TsmE+hlwRFeTaCCvg05q0jsdnf5Pu1vys2ZUKeVJZ49/tTqwcdk9GYl\nksr8NObR2tVp9Chfnnu+lEQpLGJuSOycYH1LpFgKVELeddk24N4zRfMNlNA/iC/z\ngaIbz/k1TdKTFBL4ZTRBwuqxQFLk619AXOdC3LP1iiWO+Wo4gX6+k8o3b+b/vvbF\nVJKUxxOYfCdLOX+7SSiD7FHKeNfnUietlHfP7ENEuzwQcKtiWEFUTbuS/exGHxMZ\nuEXwfNqTo7ERwSqn2GwnAtIehS0uaNZU9OUzB5tTxiCkiIbLD7R+EeV5JCpnjCMH\nm1XMWygUlytONE9qSb1rgjltn0duQwSUVfMJ52t9bt2Ds2dzVzQ0XN/xyqd4ZpUJ\nDmACFep9uLcGTo8wexGdjg5or8h8krwflWX4KbVMbH6i7/oBWbFYwgrIGUT9YeTr\nYeJgv65vW6QXCN7euKvFLueuUE0MNI5LM58DPsuLZOYXAgMBAAE=\n-----END PUBLIC KEY-----\n",
-  "publicKeySha256": "e8354a3eacdc4a29c44a6f648796419655907228fc126b0e80658324a704b123",
+  "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAsIGdLXem6N+AjLDTaAY7\nyS1V1BL4lsodamLcZRo5PwlhJaXVc1f40cWOQXU77SfoQddpyRUqaV5ZVAFoSAs9\nyd1RLJJKddEyBVaXYcztaRn8XZn1EglRTdZ/Oa5UDq0QSTrzo+gpKmZgA/M0zxe3\nE9KgNaixikzb9JoQ8+z/EZcWbW/x6/RbwlakNrxvNbmuwsURaX1ir/Vk3XwY6PJb\nSUk8wQPx4SlPxzWD2CCkdHVoalBIMouGraHDxoUOUlpuzC6oIxjiJdHMXsQaCLM4\n4xRF+4DTLPLZ68fBXbpwTPPP84rvF26RQJMDK7cWjY5KzZkpItFroQub1xY5CaTt\nXywMhUPhQxjJKqfBpN+ASBsarbnV8FC3KfbqJtG4G3kvcWaAiLSNzDo4cgDCS0xa\nnTqKWKMQWFC0vh44I5qrK6VEOGEFviD8CQDtpDb/W7Jp9DskFsw6rLjmei1DU74Y\nGV5lFoD0m7+dCYlp2TZqg/s4BL3sw8I/YHAAZP9JvpjbAgMBAAE=\n-----END PUBLIC KEY-----\n",
+  "publicKeySha256": "2ee94646e4adfb989ca33d78d96cf461ddd8320127fc96bddd6d6649655aef7a",
   "releaseId": 0,
-  "filename": "SmartVoice-TJ-Full-5.2.36.apk",
-  "sizeBytes": 632564981,
-  "sha256": "156450cd6695c1229ed9932ca693dd196a76d404d8a07b31076c1989292bb98f",
+  "filename": "SmartVoice-TJ-Full-5.2.51.apk",
+  "sizeBytes": 631578058,
+  "sha256": "734fe02aa24aae1f27e45557afad1de0422bb62204b42d0e8cc19180a161a57b",
   "packageName": "tts.smartvoice.umedjon.full",
-  "versionCode": 4152,
-  "versionName": "5.2.36-TJ-Full",
+  "versionCode": 4167,
+  "versionName": "5.2.51-TJ-Full",
   "signingCertificateSha256": "5d1d676dfddad74da47b5486b4dbe9bf66b68e67c7c256d144ec0bdf3f0ed95b",
   "testOnly": false,
-  "tagName": "v5.2.36-TJ-Full",
-  "releaseNotes": "- Добавлено фоновое скачивание обновлений с уведомлением о ходе загрузки, скорости, оставшемся объёме и приблизительном времени. Из уведомления можно открыть ход скачивания или отменить загрузку.\n- Добавлено уведомление о готовности проверенного APK с переходом к установке по нажатию. Скачанный APK сохраняется в Download/SmartVoice.\n- Улучшена обработка разрешений на уведомления: при запрете уведомлений окно загрузки остаётся доступным.\n- При выборе варианта голоса добавлено окно «Прослушать / Выбрать / Отмена». Прослушивается точный выбранный вариант; отмена сохраняет прежнее назначение.\n- Улучшена обработка исходных символов эмодзи: их названия озвучиваются на языке и голосом, выбранными для эмодзи, включая составные последовательности.\n- Для длинного текста во внешних Android-синтезаторах уменьшена первая порция текста для более быстрого начала речи. Защищённые словарные выражения и целые слова сохраняются.\n"
+  "tagName": "v5.2.51-TJ-Full",
+  "releaseNotes": "- Возвращены выбор таджикского языка и его автоматическое распознавание. Улучшены смешанный текст и короткие таджикские слова; сохранены ручные назначения.\n- Исправлено обрезание окончаний речи при высокой скорости. Улучшены обработка темпа и продолжение длинного текста, включая «Садои тоҷик».\n- Добавлены регуляторы скорости, тона и громкости при выборе голоса, прослушивание с выбранными параметрами и кнопка прослушивания в настройках голосов.\n- Добавлен выбор и прослушивание отдельных голосов перед импортом ZIP. Поддержан импорт локальных моделей из резервных копий GoogleTTS, включая многоязычные архивы и общие зависимости.\n- Улучшены запуск и восстановление Google-моделей, обработка арабских пакетов и переключение между локальными Google и Microsoft. Для длинного текста уменьшен первый фрагмент, передаваемый этим движкам.\n- Добавлены выделение нескольких голосов, удаление с подтверждением и отправка одним общим ZIP либо отдельными архивами. Встроенные голоса и общие файлы оставшихся моделей защищены.\n- Улучшены независимые назначения дикторов для языка, чисел, времени, ссылок, пунктуации и эмодзи. Исправлена обработка параметров ссылок и некоторых смешанных письменностей.\n- Отдельные локальные модели и варианты качества доступны другим TTS-приложениям. Явно выбранный вариант качества сохраняется при чтении и прослушивании.\n- Повреждённый голосовой набор больше не скрывает исправные голоса. Улучшены восстановление недоступных синтезаторов и продолжение чтения после ошибки отдельного фрагмента.\n- Уменьшен размер APK за счёт упаковки программного кода. Исходные данные Milena Full, Yuri Full и Milena Compact сохранены.\n"
 }
